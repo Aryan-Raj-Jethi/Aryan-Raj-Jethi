@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aryan-Raj-Jethi
 - 👀 I’m interested in Software and App development
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Flutter/Dart
 - 📫 How to reach me :- aryanraj99861@gmail.com
 
 <!---
